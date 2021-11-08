@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+}
+.padded_container{
+    padding:15px 0;
+}
+.ban{
+    background-color: white;
+    color: black;
+    clear:all;
+    margin:0 50px;
+    padding: 20px;
+    text-align: center;
+}
+.subtext{
+    text-align: center;
+    background-color: #222;
+    color:white;
+    display: inline-block;
+    padding: 5px;
+}
+.text {
+    text-align: center;
+    font-size: 35px;
+    color:orange;
+    font-weight: bolder;
+}
